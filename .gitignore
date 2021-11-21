@@ -1,5 +1,19 @@
 # Project exclude paths
-/target/
-/src/main/resources/my.properties
-/.idea/
+*/target/*
+*/allure-results/*
+.idea/*
 *.iml
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+*.jar
+*.war
+*.nar
+*.ear
+*.tar.gz
+*.rar
+hs_err_pid*
+*.allure/*
+.build/
+idea/
